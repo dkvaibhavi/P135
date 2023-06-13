@@ -1,0 +1,40 @@
+
+.heading 
+{
+    font-size: 23px;
+    font-family: sans-serif;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+    background-color: pink;
+    color: black;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 10;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 5px 5px black;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px pink;
+    margin-top: 10px;
+    background : white;
+}
